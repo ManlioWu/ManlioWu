@@ -1,4 +1,4 @@
-### Hi, welcome to Jiaqi Han's GitHub 👋
+### Hi, welcome to Liming's GitHub 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ManlioWu.ManlioWu&left_color=green&right_color=blue)
 
